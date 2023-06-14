@@ -23,7 +23,7 @@ PROGRAMMED BY ( AMUL SHARMA )
 
 # MAIN CAMMANDS
 
-- `rm -rf public`
+- `rm -rf FILE`
 
 - `git clone https://github.com/SUGAR-DADDY-404/FILE.git`
 
